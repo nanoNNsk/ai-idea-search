@@ -25,7 +25,7 @@ designed to help users discover ideas, reflect deeply, and plan their lives inte
 |-----------|-------|
 | Embedding | `intfloat/multilingual-e5`, `SentenceTransformers` |
 | Vector Search | `Qdrant`, `FAISS` |
-| Language Models | `OpenAI (GPT-4)`, `Claude`, `HuggingFace Transformers` |
+| Language Models | `Openthaigpt`, `HuggingFace Transformers` |
 | Frameworks | `LangChain`, `Gradio`, `Streamlit` |
 | Dev Tools | Python 3.10+, Jupyter, Colab, GitHub |
 
